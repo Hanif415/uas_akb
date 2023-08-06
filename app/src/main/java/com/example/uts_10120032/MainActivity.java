@@ -31,7 +31,6 @@ import java.util.List;
 // NIM : 10120032
 // NAMA : HANIF AMRULLAH ALMUHARAM
 // KELAS : IF 1
-
 public class MainActivity extends AppCompatActivity {
 
     private DrawerLayout mDrawer;

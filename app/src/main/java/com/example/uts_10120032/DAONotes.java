@@ -7,6 +7,9 @@ import com.google.firebase.database.Query;
 
 import java.util.HashMap;
 
+// NIM : 10120032
+// NAMA : HANIF AMRULLAH ALMUHARAM
+// KELAS : IF 1
 public class DAONotes {
     private DatabaseReference databaseReference;
 

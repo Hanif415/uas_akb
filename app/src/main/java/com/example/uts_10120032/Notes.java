@@ -1,13 +1,12 @@
 package com.example.uts_10120032;
 
-// NIM : 10120032
-// NAMA : HANIF AMRULLAH ALMUHARAM
-// KELAS : IF 1
-
 import com.google.firebase.database.Exclude;
 
 import java.io.Serializable;
 
+// NIM : 10120032
+// NAMA : HANIF AMRULLAH ALMUHARAM
+// KELAS : IF 1
 public class Notes implements Serializable {
     @Exclude
     private String key;

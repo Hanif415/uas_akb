@@ -1,6 +1,9 @@
 package com.example.uts_10120032;
 import com.google.firebase.database.IgnoreExtraProperties;
 
+// NIM : 10120032
+// NAMA : HANIF AMRULLAH ALMUHARAM
+// KELAS : IF 1
 @IgnoreExtraProperties
 public class Admin {
 

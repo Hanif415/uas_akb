@@ -21,6 +21,9 @@ import com.google.firebase.database.FirebaseDatabase;
 
 import org.jetbrains.annotations.NotNull;
 
+// NIM : 10120032
+// NAMA : HANIF AMRULLAH ALMUHARAM
+// KELAS : IF 1
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener{
 
     //deklarasi beberapa variabel kayak button editext, databaserefrence, firebaseauth

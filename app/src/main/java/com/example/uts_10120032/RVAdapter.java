@@ -13,6 +13,9 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
 
+// NIM : 10120032
+// NAMA : HANIF AMRULLAH ALMUHARAM
+// KELAS : IF 1
 public class RVAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>
 {
     private Context context;
